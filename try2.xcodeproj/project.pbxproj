@@ -15,6 +15,7 @@
 		3F61CA052527436800633E20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F61CA032527436800633E20 /* LaunchScreen.storyboard */; };
 		3F61CA102527436800633E20 /* try2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F61CA0F2527436800633E20 /* try2Tests.swift */; };
 		3F61CA1B2527436800633E20 /* try2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F61CA1A2527436800633E20 /* try2UITests.swift */; };
+		3F61CA2C2527505D00633E20 /* SeconController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F61CA2B2527505D00633E20 /* SeconController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3F61CA162527436800633E20 /* try2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = try2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F61CA1A2527436800633E20 /* try2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = try2UITests.swift; sourceTree = "<group>"; };
 		3F61CA1C2527436800633E20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F61CA2B2527505D00633E20 /* SeconController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeconController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				3F61C9FA2527435F00633E20 /* SceneDelegate.swift */,
 				3F61C9FC2527435F00633E20 /* ViewController.swift */,
 				3F61C9FE2527435F00633E20 /* Main.storyboard */,
+				3F61CA2B2527505D00633E20 /* SeconController.swift */,
 				3F61CA012527436700633E20 /* Assets.xcassets */,
 				3F61CA032527436800633E20 /* LaunchScreen.storyboard */,
 				3F61CA062527436800633E20 /* Info.plist */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F61CA2C2527505D00633E20 /* SeconController.swift in Sources */,
 				3F61C9FD2527435F00633E20 /* ViewController.swift in Sources */,
 				3F61C9F92527435F00633E20 /* AppDelegate.swift in Sources */,
 				3F61C9FB2527435F00633E20 /* SceneDelegate.swift in Sources */,
